@@ -729,18 +729,18 @@ cd-bounce-2-inverse {  0% {
   stroke-dasharray: 0,2 1;
 }
 
-.link.libraries_python{
+/*.link.libraries_python{
   stroke: rgb(38, 0, 128);
   
-}
+}*/
 
 #libraries_python{
-  fill: rgb(216, 0, 205);
+  fill: rgb(0, 0, 0);
   
 }
 
 .link.common_libs{
-  stroke: rgb(15, 255, 235);
+  stroke: rgb(1, 20, 5);
   stroke-dasharray: 0,2 1;
 }
 
